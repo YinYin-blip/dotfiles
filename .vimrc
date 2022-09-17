@@ -1,0 +1,11 @@
+syntax on
+set number
+set cursorline
+set cursorcolumn
+set shiftwidth=4
+set tabstop=4
+set expandtab
+set incsearch
+set ignorecase
+set hlsearch
+set wildmenu
